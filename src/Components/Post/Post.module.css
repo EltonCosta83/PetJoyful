@@ -1,0 +1,10 @@
+/* src/components/Post/Post.module.css */
+.post {
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  }
+  
+  button i {
+    font-size: 1.2rem;
+  }
+  
